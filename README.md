@@ -1,2 +1,2 @@
 # FDC-News-Trends
-FDC News &amp; Trends is a API integrated Front end project 
+FDC News &amp; Trends is an API integrated Front end project 
